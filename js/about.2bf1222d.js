@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueusedifferentfont"]=self["webpackChunkvueusedifferentfont"]||[]).push([[443],{381:function(e,n,u){u.r(n),u.d(n,{default:function(){return d}});var t=u(252);const r={class:"about"},s=(0,t._)("h1",null,"This is an about page",-1),f=[s];function a(e,n){return(0,t.wg)(),(0,t.iD)("div",r,f)}var i=u(744);const c={},o=(0,i.Z)(c,[["render",a]]);var d=o}}]);
+//# sourceMappingURL=about.2bf1222d.js.map
